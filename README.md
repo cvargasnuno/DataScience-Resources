@@ -27,7 +27,8 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 + ### Deep Learning
 	- [Stanford- Convolutional Neural Networks for Visual Recognition 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 	- [Stanford- CS224N Natural Language Processing with Deep Leaning 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-	- [Oxford Deep Learning 2015](https://www.youtube.com/watch?v=PlhFWT7vAEw&list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
+	- [Oxford- Deep Learning 2015](https://www.youtube.com/watch?v=PlhFWT7vAEw&list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
+	- [NYU- Deep Learning 2020](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 	
 + ### Algebra Lineal
 	- [MIT- 18.06SC Linear Algebra 2011](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
