@@ -16,7 +16,6 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 	
 + ### Data Science
 	- [Harvard- CS109 Data Science 2015](http://cs109.github.io/2015/)
-	- [Stanford- CS234 Reinforment Learning 2019](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 	
 + ### Machine Learning
 	- [Caltech- CMS165 Foundations of Machine Learning 2019](https://www.youtube.com/watch?v=qiLKPPyvVKw&list=PLVNifWxslHCA5GUh0o92neMiWiQiGVFqp)
