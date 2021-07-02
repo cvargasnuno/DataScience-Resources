@@ -22,12 +22,15 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 	- [Caltech- CMS165 Foundations of Machine Learning and Statistical Inferences 2020](https://www.youtube.com/watch?v=Hn6giCdZmMg&list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
 	- [University of British Columbia- CPSC540 Machine Learning 2013](https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 	- [Caltech- CS156 Machine Learning 2012](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)
+	- [Stanford CS224W Machine Learning with Graphs 2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+
 + ### Deep Learning
 	- [Stanford- Convolutional Neural Networks for Visual Recognition 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 	- [Stanford- CS224N Natural Language Processing with Deep Leaning 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 	- [Oxford- Deep Learning 2015](https://www.youtube.com/watch?v=PlhFWT7vAEw&list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
 	- [NYU- Deep Learning 2020](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 	- [UC Berkeley- STAT-157 Deep Learning 2019](https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
+
 	
 + ### Algebra Lineal
 	- [MIT- 18.06SC Linear Algebra 2011](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
