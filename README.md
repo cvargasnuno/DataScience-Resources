@@ -41,9 +41,10 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 	- [UCL Reinforcement Learning 2018](https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
 	- [Udacity Reinforcement Learning 2016](https://www.youtube.com/watch?v=WO3kmx4CVgg&list=PL__ycckD1ec_yNMjDl-Lq4-1ZqHcXqgm7)
 	- [ASU CSE691 Reinforcement Learning 2021](https://www.youtube.com/watch?v=TdsEtXGflZQ&list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn)
-
+ 
 + ### Artificial Intelligence
 	 - [Stanford CS221: Artificial Intelligence 2019 ](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 	 - [MIT 6.034: Artificial Intelligence 2010 ](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+	 - [Harvard CS50 Introduction to Artificial Intelligence with Python 2020 ](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
 
 
