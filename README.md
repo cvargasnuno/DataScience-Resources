@@ -13,6 +13,7 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 + ### Estadistica	
 	- [MIT- 18.650 Statisticts for Applications 2017](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 	- [MIT- 6.262 Discrete Stochastic Processes 2011](https://www.youtube.com/watch?v=7CYXy9J4Aao&list=PLEEF5322B331C1B98)
+	- [Statistical Rethinking 2019](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
 	
 + ### Data Science
 	- [Harvard- CS109 Data Science 2015](http://cs109.github.io/2015/)
@@ -47,4 +48,5 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 	 - [MIT 6.034: Artificial Intelligence 2010 ](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 	 - [Harvard CS50 Introduction to Artificial Intelligence with Python 2020 ](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
 
-
++ ### Time Series
+	 - [DTU 02417: Time Series Analysis 2017 ](https://www.youtube.com/watch?v=kSMec4HTxVE&list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA)
