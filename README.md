@@ -24,6 +24,7 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 	- [University of British Columbia- CPSC540 Machine Learning 2013](https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 	- [Caltech- CS156 Machine Learning 2012](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)
 	- [Stanford CS224W Machine Learning with Graphs 2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+	- [University of Washington CSEP 546 Data Mining](https://www.youtube.com/watch?v=LnlW9gdjWfc&list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr)	 
 
 + ### Deep Learning
 	- [Stanford- Convolutional Neural Networks for Visual Recognition 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -49,4 +50,5 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 	 - [Harvard CS50 Introduction to Artificial Intelligence with Python 2020 ](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
 
 + ### Time Series
-	 - [DTU 02417: Time Series Analysis 2017 ](https://www.youtube.com/watch?v=kSMec4HTxVE&list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA)
+	 - [DTU 02417 Time Series Analysis 2017 ](https://www.youtube.com/watch?v=kSMec4HTxVE&list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA)
+	 - [University of Washington SAFS 507 Applied Time Series Analysis ](https://www.youtube.com/watch?v=XeAN-zYhqGw&list=PLA5yNsxyt7sC3B4qhj_sMgGWqWWaSerq-)
