@@ -23,8 +23,8 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 	- [Caltech- CMS165 Foundations of Machine Learning and Statistical Inferences 2020](https://www.youtube.com/watch?v=Hn6giCdZmMg&list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
 	- [University of British Columbia- CPSC540 Machine Learning 2013](https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 	- [Caltech- CS156 Machine Learning 2012](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)
-	- [Stanford CS224W Machine Learning with Graphs 2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
-	- [University of Washington CSEP 546 Data Mining](https://www.youtube.com/watch?v=LnlW9gdjWfc&list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr)	 
+	- [Stanford- CS224W Machine Learning with Graphs 2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+	- [University of Washington- CSEP 546 Data Mining](https://www.youtube.com/watch?v=LnlW9gdjWfc&list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr)	 
 
 + ### Deep Learning
 	- [Stanford- Convolutional Neural Networks for Visual Recognition 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -37,18 +37,19 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 + ### Algebra Lineal
 	- [MIT- 18.06SC Linear Algebra 2011](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
 	- [MIT- 16.065 Matrix Methods in Data Analysis, Signal Processing and Machine Learning 2018](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+	- [Stanford- ENGR108 Introduction to Applied Linear Algebra 2020](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)
 	
 + ### Reinforcement Learning
-	- [Stanford CS234: Reinforcement Learning 2019 ](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-	- [UCL Reinforcement Learning 2018](https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
-	- [Udacity Reinforcement Learning 2016](https://www.youtube.com/watch?v=WO3kmx4CVgg&list=PL__ycckD1ec_yNMjDl-Lq4-1ZqHcXqgm7)
-	- [ASU CSE691 Reinforcement Learning 2021](https://www.youtube.com/watch?v=TdsEtXGflZQ&list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn)
+	- [Stanford- CS234 Reinforcement Learning 2019 ](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+	- [UCL- Reinforcement Learning 2018](https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
+	- [Udacity- Reinforcement Learning 2016](https://www.youtube.com/watch?v=WO3kmx4CVgg&list=PL__ycckD1ec_yNMjDl-Lq4-1ZqHcXqgm7)
+	- [ASU- CSE691 Reinforcement Learning 2021](https://www.youtube.com/watch?v=TdsEtXGflZQ&list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn)
  
 + ### Artificial Intelligence
-	 - [Stanford CS221: Artificial Intelligence 2019 ](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
-	 - [MIT 6.034: Artificial Intelligence 2010 ](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
-	 - [Harvard CS50 Introduction to Artificial Intelligence with Python 2020 ](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
+	 - [Stanford- CS221 Artificial Intelligence 2019 ](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+	 - [MIT- 6.034 Artificial Intelligence 2010 ](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+	 - [Harvard- CS50 Introduction to Artificial Intelligence with Python 2020 ](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
 
 + ### Time Series
-	 - [DTU 02417 Time Series Analysis 2017 ](https://www.youtube.com/watch?v=kSMec4HTxVE&list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA)
-	 - [University of Washington SAFS 507 Applied Time Series Analysis ](https://www.youtube.com/watch?v=XeAN-zYhqGw&list=PLA5yNsxyt7sC3B4qhj_sMgGWqWWaSerq-)
+	 - [DTU- 02417 Time Series Analysis 2017 ](https://www.youtube.com/watch?v=kSMec4HTxVE&list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA)
+	 - [University of Washington- SAFS 507 Applied Time Series Analysis ](https://www.youtube.com/watch?v=XeAN-zYhqGw&list=PLA5yNsxyt7sC3B4qhj_sMgGWqWWaSerq-)
