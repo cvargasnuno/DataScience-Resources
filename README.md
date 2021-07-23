@@ -30,7 +30,7 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 	- [University of British Columbia- CPSC540 Machine Learning 2013](https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 
 + ### Deep Learning
-	- [Stanford- Convolutional Neural Networks for Visual Recognition 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+	- [Stanford- CS231N Convolutional Neural Networks for Visual Recognition 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 	- [Stanford- CS224N Natural Language Processing with Deep Leaning 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 	- [Stanford- CS230 Deep Learning 2018](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 	- [Oxford- Deep Learning 2015](https://www.youtube.com/watch?v=PlhFWT7vAEw&list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
