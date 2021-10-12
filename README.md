@@ -28,6 +28,7 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 	- [Stanford- CS224W Machine Learning with Graphs 2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 	- [University of Washington- CSEP 546 Data Mining](https://www.youtube.com/watch?v=LnlW9gdjWfc&list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr)	 
 	- [University of British Columbia- CPSC540 Machine Learning 2013](https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
+	- [Duke- 2021 Intuition for the Algorithms of Machine Learning](https://www.youtube.com/watch?v=k_fneElvfP4&list=PLNeXFnYrCJneoY_rKtWJy833YiMrCRi5f) 15 hours, 4 minutes, 27 seconds
 
 + ### Deep Learning
 	- [Stanford- CS231N Convolutional Neural Networks for Visual Recognition 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -41,7 +42,7 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 + ### Algebra Lineal
 	- [MIT- 18.06SC Linear Algebra 2011](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
 	- [MIT- 16.065 Matrix Methods in Data Analysis, Signal Processing and Machine Learning 2018](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
-	- [Stanford- ENGR108 Introduction to Applied Linear Algebra 2020](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)
+	- [Stanford- ENGR108 Introduction to Applied Linear Algebra 2020](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) 18 hours, 28 minutes, 48 seconds
 	
 + ### Reinforcement Learning
 	- [Stanford- CS234 Reinforcement Learning 2019 ](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
