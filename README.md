@@ -7,13 +7,13 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 
 
 + ### Probabilidad
- 	- [Harvard- Statistics 110: Probability 2013](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
- 	- [MIT- 6.041 Probabilistic Systems Analysis and Applied Probability 2011](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)  
+ 	- [Harvard- Statistics 110: Probability 2013](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) 27 hours, 4 minutes, 33 seconds
+ 	- [MIT- 6.041 Probabilistic Systems Analysis and Applied Probability 2011](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) 21 hours, 7 minutes, 20 seconds 
 	
 + ### Estadistica	
-	- [MIT- 18.650 Statisticts for Applications 2017](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
-	- [MIT- 6.262 Discrete Stochastic Processes 2011](https://www.youtube.com/watch?v=7CYXy9J4Aao&list=PLEEF5322B331C1B98)
-	- [Statistical Rethinking 2019](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
+	- [MIT- 18.650 Statisticts for Applications 2017](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) 28 hours, 44 seconds
+	- [MIT- 6.262 Discrete Stochastic Processes 2011](https://www.youtube.com/watch?v=7CYXy9J4Aao&list=PLEEF5322B331C1B98) 33 hours, 3 minutes, 22 seconds
+	- [Statistical Rethinking 2019](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI) 20 hours, 15 minutes, 16 seconds
 	
 + ### Data Science
 	- [Harvard- CS109 Data Science 2015](http://cs109.github.io/2015/)
@@ -40,8 +40,8 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 
 	
 + ### Algebra Lineal
-	- [MIT- 18.06SC Linear Algebra 2011](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
-	- [MIT- 16.065 Matrix Methods in Data Analysis, Signal Processing and Machine Learning 2018](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+	- [MIT- 18.06SC Linear Algebra 2011](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C) 35 hours, 49 minutes, 55 seconds
+	- [MIT- 16.065 Matrix Methods in Data Analysis, Signal Processing and Machine Learning 2018](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 28 hours, 9 minutes, 10 seconds
 	- [Stanford- ENGR108 Introduction to Applied Linear Algebra 2020](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) 18 hours, 28 minutes, 48 seconds
 	
 + ### Reinforcement Learning
@@ -56,5 +56,5 @@ Este repositorio tiene como finalidad hacer una recopilación de cursos en linea
 	 - [Harvard- CS50 Introduction to Artificial Intelligence with Python 2020 ](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
 
 + ### Time Series
-	 - [DTU- 02417 Time Series Analysis 2017 ](https://www.youtube.com/watch?v=kSMec4HTxVE&list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA)
-	 - [University of Washington- SAFS 507 Applied Time Series Analysis ](https://www.youtube.com/watch?v=XeAN-zYhqGw&list=PLA5yNsxyt7sC3B4qhj_sMgGWqWWaSerq-)
+	 - [DTU- 02417 Time Series Analysis 2017 ](https://www.youtube.com/watch?v=kSMec4HTxVE&list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA) 19 hours, 12 minutes, 20 seconds
+	 - [University of Washington- SAFS 507 Applied Time Series Analysis ](https://www.youtube.com/watch?v=XeAN-zYhqGw&list=PLA5yNsxyt7sC3B4qhj_sMgGWqWWaSerq-) 21 hours, 10 seconds
